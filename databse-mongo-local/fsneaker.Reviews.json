@@ -1,0 +1,569 @@
+[{
+  "_id": {
+    "$oid": "66a7068a7a968e7be3dbc858"
+  },
+  "idAccount": {
+    "$oid": "669888b6507ccded1f66f207"
+  },
+  "productId": {
+    "$oid": "66a4b4517c7a6b8c0dd16e46"
+  },
+  "content": "Sản phẩm đúng với mô tả trên web",
+  "isRated": true,
+  "createdAt": {
+    "$date": "2024-07-29T03:03:38.328Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-29T03:03:38.328Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a712615acb20eeb3035335"
+  },
+  "idAccount": {
+    "$oid": "66a5be7bb675daaa86702e59"
+  },
+  "productId": {
+    "$oid": "66a4bf187c7a6b8c0dd176c2"
+  },
+  "content": "ábc",
+  "isRated": true,
+  "createdAt": {
+    "$date": "2024-07-29T03:54:09.834Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-29T03:54:09.834Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a712615acb20eeb3035337"
+  },
+  "idAccount": {
+    "$oid": "66a5be7bb675daaa86702e59"
+  },
+  "productId": {
+    "$oid": "66a70e9b7a968e7be3dbcdbe"
+  },
+  "content": "qfff",
+  "isRated": true,
+  "createdAt": {
+    "$date": "2024-07-29T03:54:09.835Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-29T03:54:09.835Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a712615acb20eeb3035336"
+  },
+  "idAccount": {
+    "$oid": "66a5be7bb675daaa86702e59"
+  },
+  "productId": {
+    "$oid": "66a4bf187c7a6b8c0dd176c2"
+  },
+  "content": "qgg",
+  "isRated": true,
+  "createdAt": {
+    "$date": "2024-07-29T03:54:09.835Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-29T03:54:09.835Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a71d9f0e17d90e1e607e20"
+  },
+  "idAccount": {
+    "$oid": "66a5b15e102e20893a9e7287"
+  },
+  "productId": {
+    "$oid": "66a4bac47c7a6b8c0dd173e4"
+  },
+  "content": "Sản phẩm quá tuyệt <3",
+  "isRated": true,
+  "createdAt": {
+    "$date": "2024-07-29T04:42:07.143Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-29T04:42:07.143Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a7bc74b1fed22f446886e6"
+  },
+  "idAccount": {
+    "$oid": "669888b6507ccded1f66f207"
+  },
+  "productId": {
+    "$oid": "66a7bb00b1fed22f44688226"
+  },
+  "content": "sản phẩm đúng với mô tả",
+  "isRated": true,
+  "createdAt": {
+    "$date": "2024-07-29T15:59:48.869Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-29T15:59:48.869Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66aa76f4bf6bbf52d5411416"
+  },
+  "idAccount": {
+    "$oid": "669888b6507ccded1f66f207"
+  },
+  "productId": {
+    "$oid": "66a7134b0e17d90e1e606a16"
+  },
+  "content": "Sản phẩm đúng với mô tả",
+  "isRated": true,
+  "createdAt": {
+    "$date": "2024-07-31T17:40:04.227Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-31T17:40:04.227Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66aa76f4bf6bbf52d5411415"
+  },
+  "idAccount": {
+    "$oid": "669888b6507ccded1f66f207"
+  },
+  "productId": {
+    "$oid": "66a4b4517c7a6b8c0dd16e46"
+  },
+  "content": "Sản phẩm đẹp quá, đúng với mô tả",
+  "isRated": true,
+  "createdAt": {
+    "$date": "2024-07-31T17:40:04.227Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-31T17:40:04.227Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66aa76f4bf6bbf52d5411417"
+  },
+  "idAccount": {
+    "$oid": "669888b6507ccded1f66f207"
+  },
+  "productId": {
+    "$oid": "66a7134b0e17d90e1e606a16"
+  },
+  "content": "Sản phẩm này vừa chân lắm ạ\n",
+  "isRated": true,
+  "createdAt": {
+    "$date": "2024-07-31T17:40:04.227Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-31T17:40:04.227Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66aa76f4bf6bbf52d5411413"
+  },
+  "idAccount": {
+    "$oid": "669888b6507ccded1f66f207"
+  },
+  "productId": {
+    "$oid": "66a4b4517c7a6b8c0dd16e46"
+  },
+  "content": "Sản phẩm đẹp quá",
+  "isRated": true,
+  "createdAt": {
+    "$date": "2024-07-31T17:40:04.226Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-31T17:40:04.226Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66aa76f4bf6bbf52d5411414"
+  },
+  "idAccount": {
+    "$oid": "669888b6507ccded1f66f207"
+  },
+  "productId": {
+    "$oid": "66a4b4517c7a6b8c0dd16e46"
+  },
+  "content": "Sản phẩm đẹp quá",
+  "isRated": true,
+  "createdAt": {
+    "$date": "2024-07-31T17:40:04.227Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-31T17:40:04.227Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ac9b466c08e3970de58b98"
+  },
+  "idAccount": {
+    "$oid": "669fc96e870d2d2f83cf4940"
+  },
+  "productId": {
+    "$oid": "66a723d3331dc5beefaa0f8f"
+  },
+  "content": "đẹp",
+  "isRated": true,
+  "createdAt": {
+    "$date": "2024-08-02T08:39:34.753Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-02T08:39:34.753Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ac9b526c08e3970de58bae"
+  },
+  "idAccount": {
+    "$oid": "669fc96e870d2d2f83cf4940"
+  },
+  "productId": {
+    "$oid": "66a4bf187c7a6b8c0dd176c2"
+  },
+  "content": "sản phẩm tốt",
+  "isRated": true,
+  "createdAt": {
+    "$date": "2024-08-02T08:39:46.324Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-02T08:39:46.324Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ac9b526c08e3970de58baf"
+  },
+  "idAccount": {
+    "$oid": "669fc96e870d2d2f83cf4940"
+  },
+  "productId": {
+    "$oid": "66a4bf187c7a6b8c0dd176c2"
+  },
+  "content": "Đúng size",
+  "isRated": true,
+  "createdAt": {
+    "$date": "2024-08-02T08:39:46.324Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-02T08:39:46.324Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ac9bf06c08e3970de58f0b"
+  },
+  "idAccount": {
+    "$oid": "669fc96e870d2d2f83cf4940"
+  },
+  "productId": {
+    "$oid": "66a4b4517c7a6b8c0dd16e46"
+  },
+  "content": "đúng với miêu tả",
+  "isRated": true,
+  "createdAt": {
+    "$date": "2024-08-02T08:42:24.421Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-02T08:42:24.421Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ac9c036c08e3970de58f28"
+  },
+  "idAccount": {
+    "$oid": "669fc96e870d2d2f83cf4940"
+  },
+  "productId": {
+    "$oid": "66a4bbd37c7a6b8c0dd17417"
+  },
+  "content": "Đúng với size",
+  "isRated": true,
+  "createdAt": {
+    "$date": "2024-08-02T08:42:43.396Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-02T08:42:43.396Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ac9c036c08e3970de58f27"
+  },
+  "idAccount": {
+    "$oid": "669fc96e870d2d2f83cf4940"
+  },
+  "productId": {
+    "$oid": "66a4bbd37c7a6b8c0dd17417"
+  },
+  "content": "Sản phẩm tốt",
+  "isRated": true,
+  "createdAt": {
+    "$date": "2024-08-02T08:42:43.396Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-02T08:42:43.396Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba5263df24d57d4e2e46cd"
+  },
+  "idAccount": {
+    "$oid": "669888b6507ccded1f66f207"
+  },
+  "productId": {
+    "$oid": "66a73018331dc5beefaa2c5c"
+  },
+  "content": "Sản phẩm có 5 sao",
+  "isRated": true,
+  "rating": 5,
+  "createdAt": {
+    "$date": "2024-08-12T18:20:19.210Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T18:20:19.210Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba5263df24d57d4e2e46ce"
+  },
+  "idAccount": {
+    "$oid": "669888b6507ccded1f66f207"
+  },
+  "productId": {
+    "$oid": "66a7387bd1946d51dea80a4d"
+  },
+  "content": "Sản phẩm có 3 sao",
+  "isRated": true,
+  "rating": 3,
+  "createdAt": {
+    "$date": "2024-08-12T18:20:19.211Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T18:20:19.211Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66bb6a5ca3c5ab919d7d4272"
+  },
+  "idAccount": {
+    "$oid": "669fc96e870d2d2f83cf4940"
+  },
+  "productId": {
+    "$oid": "66a701377a968e7be3dbc4e7"
+  },
+  "content": "sản phẩm đẹp\n",
+  "isRated": true,
+  "createdAt": {
+    "$date": "2024-08-13T14:14:52.138Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-13T14:14:52.138Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66bb6a5ca3c5ab919d7d4273"
+  },
+  "idAccount": {
+    "$oid": "669fc96e870d2d2f83cf4940"
+  },
+  "productId": {
+    "$oid": "66a701377a968e7be3dbc4e7"
+  },
+  "content": "sản phẩm tốt",
+  "isRated": true,
+  "createdAt": {
+    "$date": "2024-08-13T14:14:52.138Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-13T14:14:52.138Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66bc40984f2a4f7d11b81b32"
+  },
+  "idAccount": {
+    "$oid": "669895e691da77db12740519"
+  },
+  "productId": {
+    "$oid": "66ae0263ca92df3cc738e1d9"
+  },
+  "content": "Sản phẩm có 5 sao",
+  "isRated": true,
+  "rating": 5,
+  "createdAt": {
+    "$date": "2024-08-14T05:28:56.395Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-14T05:28:56.395Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66bcd3350970f6e26d47d71d"
+  },
+  "idAccount": {
+    "$oid": "669895e691da77db12740519"
+  },
+  "productId": {
+    "$oid": "66ae0263ca92df3cc738e1d9"
+  },
+  "content": "Rất chất lượng",
+  "isRated": true,
+  "rating": 5,
+  "createdAt": {
+    "$date": "2024-08-14T15:54:29.461Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-14T15:54:29.461Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66bd6921eb91c42335931e11"
+  },
+  "idAccount": {
+    "$oid": "669895e691da77db12740519"
+  },
+  "productId": {
+    "$oid": "66a73018331dc5beefaa2c5c"
+  },
+  "content": "Rất đẹp và chất lượng ",
+  "isRated": true,
+  "rating": 4,
+  "createdAt": {
+    "$date": "2024-08-15T02:34:09.557Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-15T02:34:09.557Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66bdbca021483a19cae833a7"
+  },
+  "idAccount": {
+    "$oid": "669888b6507ccded1f66f207"
+  },
+  "productId": {
+    "$oid": "66a7387bd1946d51dea80a4d"
+  },
+  "content": "te",
+  "isRated": true,
+  "rating": 1,
+  "createdAt": {
+    "$date": "2024-08-15T08:30:24.288Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-15T08:30:24.288Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66bf6f96538310d2cc598181"
+  },
+  "idAccount": {
+    "$oid": "66a720540e17d90e1e608135"
+  },
+  "productId": {
+    "$oid": "66a4b4517c7a6b8c0dd16e46"
+  },
+  "content": "San Pham 5 Sao",
+  "isRated": true,
+  "rating": 5,
+  "createdAt": {
+    "$date": "2024-08-16T15:26:14.098Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-16T15:26:14.098Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66cc1aa72c6510542526d866"
+  },
+  "idAccount": {
+    "$oid": "669895e691da77db12740519"
+  },
+  "productId": {
+    "$oid": "66a73018331dc5beefaa2c5c"
+  },
+  "content": "Sản phẩm đẹp",
+  "isRated": true,
+  "rating": 5,
+  "createdAt": {
+    "$date": "2024-08-26T06:03:19.153Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-26T06:03:19.153Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66cc4c00053245e30b54eee4"
+  },
+  "idAccount": {
+    "$oid": "669895e691da77db12740519"
+  },
+  "productId": {
+    "$oid": "66a723d3331dc5beefaa0f8f"
+  },
+  "content": "Sản phẩm rất chất lượng",
+  "isRated": true,
+  "rating": 5,
+  "createdAt": {
+    "$date": "2024-08-26T09:33:52.490Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-26T09:33:52.490Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,25 @@
+.container {
+    padding: 32px;
+    display: flex;
+    column-gap: 32px;
+
+    .sidebar {
+        width: 30%;
+    }
+
+    .sidebarItem {
+        cursor: pointer;
+        display: block;
+    }
+}
+
+.title {
+    text-align: center;
+    font-weight: 600;
+    font-size: 20px;
+    margin-bottom: 32px;
+}
+
+.content {
+    flex: 1;
+}

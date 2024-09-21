@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap');
+.app-container {
+    max-width: 1360px;
+    padding-left: 12px;
+    padding-right: 12px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.item-sale {
+    position: relative;
+    overflow: hidden;
+}
+.item-sale::before {
+    position: absolute;
+    content: '';
+    width: 0;
+    height: 0;
+    right: -1px;
+    top: -1px;
+    border-style: solid;
+    border-width: 0px 19px 19px 0px;
+    border-color: transparent black transparent transparent;
+}
+.item-sale::after {
+    position: absolute;
+    content: '';
+    width: 19px;
+    height: 19px;
+    right: -1px;
+    top: -1px;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20' viewBox='0 0 20 20'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg%3E%3Cg%3E%3Cg%3E%3Cg%3E%3Cg%3E%3Cg%3E%3Cg%3E%3Cpath fill='%23fffff' d='M0 0h16c2.21 0 4 1.79 4 4v16L0 0z' transform='translate(-804 -366) translate(180 144) translate(484 114) translate(16 80) translate(0 28) translate(124)'/%3E%3Cg fill='%23FFF'%3E%3Cpath d='M4.654 7.571L8.88 3.176c.22-.228.582-.235.81-.016.229.22.236.582.017.81L5.04 8.825c-.108.113-.258.176-.413.176-.176 0-.33-.076-.438-.203L2.136 6.37c-.205-.241-.175-.603.067-.808.242-.204.603-.174.808.068L4.654 7.57z' transform='translate(-804 -366) translate(180 144) translate(484 114) translate(16 80) translate(0 28) translate(124) translate(7.5)'/%3E%3C/g%3E%3C/g%3E%3C/g%3E%3C/g%3E%3C/g%3E%3C/g%3E%3C/g%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+}
+.item-hover {
+}
+.item-child-hover {
+    transition: all 0.2s linear;
+    opacity: 0;
+}
+.item-hover:hover > .item-child-hover {
+    opacity: 1;
+    pointer-events: auto;
+}
+body {
+    font-family: 'Roboto Slab', serif;
+}
+.img-product-container * {
+    height: 100%;
+}
+
+.size-disabled {
+    background-color: #ecebeb !important;
+    cursor: not-allowed !important;
+}
+.custom-focus:hover {
+    text-decoration: underline;
+}
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+/* Firefox */
+input[type='number'] {
+    -moz-appearance: textfield;
+}

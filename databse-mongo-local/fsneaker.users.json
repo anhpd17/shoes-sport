@@ -1,0 +1,419 @@
+[{
+  "_id": {
+    "$oid": "669888b6507ccded1f66f207"
+  },
+  "userName": "lehuyhung",
+  "fullName": "Lê Huy Hùng",
+  "email": "huyhungsp2003@gmail.com",
+  "password": "$2a$10$V7bvPjR6Lp5i6bUHD3K/T.42PuIk0dF/xqXGUFNV4kCKmPUOTTCmi",
+  "role": "member",
+  "block": false,
+  "address": "Thanh Hóa",
+  "createdAt": {
+    "$date": "2024-07-18T03:15:02.944Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-29T14:59:29.788Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "669895e691da77db12740519"
+  },
+  "userName": "thebui",
+  "fullName": "The Bui",
+  "email": "thebui2308@gmail.com",
+  "password": "$2a$10$vN/rg9jrr8axJavjCEfbge.VnBZSJnmWv1bPzEqBx4H.juQiwWlDW",
+  "role": "member",
+  "block": false,
+  "address": "Mễ Trì",
+  "createdAt": {
+    "$date": "2024-07-18T04:11:18.239Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-05T14:40:17.579Z"
+  },
+  "gender": "male",
+  "tel": "0962838999"
+},
+{
+  "_id": {
+    "$oid": "6698b389300e60b3c03b238e"
+  },
+  "userName": "hiepngo",
+  "fullName": "Hiệp Ngô",
+  "email": "ngotranhiep2015@gmail.com",
+  "password": "$2a$10$X9PCIEVFnSB.lCIixR/nb.Oqs7cOxw7Pkjxe3MbuwoA1/JRWJuwr.",
+  "role": "member",
+  "block": false,
+  "address": "Sơn Tây",
+  "createdAt": {
+    "$date": "2024-07-18T06:17:45.092Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-18T06:17:45.092Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6698b96e8aa242ee12784beb"
+  },
+  "userName": "sonbn.admin",
+  "fullName": "Bùi Ngọc Sơn",
+  "email": "sonbn@gmail.com",
+  "password": "$2a$10$So9r/95E7Y6Ovqv1yRh62.TTmH8fdvYtD0GGboKvkO7j/Y/UFRVZe",
+  "role": "admin",
+  "block": false,
+  "address": "HN",
+  "createdAt": {
+    "$date": "2024-07-18T06:42:54.618Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-29T02:51:10.879Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "669f798d8b04b743745e6f19"
+  },
+  "userName": "huyhoang",
+  "fullName": "Huy Hoàng",
+  "email": "huyhoangk7@gmail.com",
+  "password": "$2a$10$D/XlW0kbXeZiQdU0B83LROl4KRn6Vkxumjb3KFCfftLE4cS.8Et6e",
+  "role": "member",
+  "block": false,
+  "address": "Định Thành, Yên Định",
+  "createdAt": {
+    "$date": "2024-07-23T09:36:13.385Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T09:36:13.385Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "669fc93a870d2d2f83cf493c"
+  },
+  "userName": "Vinh Tâm",
+  "fullName": "Trịnh Vinh Tâm",
+  "email": "tamtv123@gmail.com",
+  "password": "$2a$10$Ea4I.7rmgX/.Uis0NUl9y..I8gw1hZr7PJ5dVVQA2/inLbxXYPR3.",
+  "role": "member",
+  "block": false,
+  "address": "Ngọc Phụng, Thường Xuân, Thanh Hóa",
+  "createdAt": {
+    "$date": "2024-07-23T15:16:10.660Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-02T08:36:57.448Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "669fc96e870d2d2f83cf4940"
+  },
+  "userName": "tam123",
+  "fullName": "Trịnh Vinh Tâm",
+  "email": "tamtv28092003@gmail.com",
+  "password": "$2a$10$j6lqHM6irDmaZChYeNd/JeakGrge3ntfCbUkrhmYtIAqmDiAZGjRO",
+  "role": "member",
+  "block": false,
+  "address": "Ngọc Phụng, Thường Xuân, Thanh Hóa",
+  "createdAt": {
+    "$date": "2024-07-23T15:17:02.067Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-02T08:37:18.686Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a0586becc18686d0d7acb3"
+  },
+  "userName": "toiday",
+  "fullName": "The kelly",
+  "email": "toiday@gmail.com",
+  "password": "$2a$10$1Rgp886DBRMNRRsIiZxDKuBKd0r4a7bcInOgxuXWxvQf79Yk7y1x6",
+  "role": "member",
+  "block": false,
+  "address": "Mễ Trì",
+  "createdAt": {
+    "$date": "2024-07-24T01:27:07.902Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-05T14:40:33.859Z"
+  },
+  "gender": "male",
+  "tel": "0962838888"
+},
+{
+  "_id": {
+    "$oid": "66a23e3efa602c10f6fc88b0"
+  },
+  "userName": "thangnd",
+  "fullName": "Thang",
+  "email": "nguyenducthangz635@gmail.com",
+  "password": "$2a$10$2AsVShjkrC.o2VFeHdagWe7OYifeGzer.AKRjGLMXbiVha9sCmIHu",
+  "role": "admin",
+  "block": false,
+  "address": "Hà Nội",
+  "createdAt": {
+    "$date": "2024-07-25T11:59:58.615Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-25T11:59:58.615Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a267a712713854d1fba290"
+  },
+  "userName": "hainh1",
+  "fullName": "Nguyễn Hoàng Hải",
+  "email": "rakefo1427@maxturns.com",
+  "password": "$2a$10$CIpo.pqomn/lpUTpeXYeO.ymyNYe95Zb3yMqOpnitO.5QA8CK2/iG",
+  "role": "member",
+  "block": true,
+  "address": "HN",
+  "createdAt": {
+    "$date": "2024-07-25T14:56:39.832Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-29T04:14:29.800Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a30f13b07e51bf4e889e2a"
+  },
+  "userName": "vudangtrungzung",
+  "fullName": "Vũ Dũng",
+  "email": "vudangtrungzung@gmail.com",
+  "password": "$2a$10$hs8vT9pWo1.mwNpVal6oUeZ5vgUoXPJX2810b5DcL.6cIYXMvpKVC",
+  "role": "member",
+  "block": false,
+  "address": "Hà Nam",
+  "createdAt": {
+    "$date": "2024-07-26T02:50:59.786Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-26T02:50:59.786Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a51d5f87ed6ca141ade6ee"
+  },
+  "userName": "admin1",
+  "fullName": "admin1",
+  "email": "admin1@gmail.com",
+  "password": "$2a$10$OQmBXbdDAkqRVfgbFvEn9urhQMgLuDpAXicTUa8YJhS8PTrAKOyiu",
+  "role": "admin",
+  "block": false,
+  "address": "Hà Nội",
+  "createdAt": {
+    "$date": "2024-07-27T16:16:31.129Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-29T04:50:56.880Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a5b0c8102e20893a9e71d8"
+  },
+  "userName": "hiepadmin",
+  "fullName": "NGUYEN VAN HIEP",
+  "email": "aquan5068@gmail.com",
+  "password": "$2a$10$a753v9w2ZQuUrZOHfYjdzu28L6aioeYJmH7WPVlOdLRwDld6TztNa",
+  "role": "admin",
+  "block": false,
+  "address": "Ha Noi",
+  "createdAt": {
+    "$date": "2024-07-28T02:45:28.969Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T02:45:28.969Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a5b15e102e20893a9e7287"
+  },
+  "userName": "hiepcus",
+  "fullName": "NGUYEN VAN HIEP",
+  "email": "mrhiep165@gmail.com",
+  "password": "$2a$10$m3jL9boxZH7cM.SZVOe0ue.A4O.6ymDO5Lugyii37RrdpBEvXJ1tS",
+  "role": "member",
+  "block": true,
+  "address": "ME LINH, HA NOI",
+  "createdAt": {
+    "$date": "2024-07-28T02:47:58.139Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-02T05:06:31.993Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a5be7bb675daaa86702e59"
+  },
+  "userName": "tamtv2003",
+  "fullName": "Tâm",
+  "email": "tam123@gmail.com",
+  "password": "$2a$10$hxQau4113ZKcmAc8/oqKqO3QaZY8IQPPPafPUBggPxFiSrFNcpaIW",
+  "role": "member",
+  "block": false,
+  "address": "thường xuân",
+  "createdAt": {
+    "$date": "2024-07-28T03:43:55.731Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-29T04:07:18.131Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a6f92b7a968e7be3dbb9d9"
+  },
+  "userName": "superadmin",
+  "fullName": "Super Admin",
+  "email": "admin@gmail.com",
+  "password": "$2a$10$t99YTp8waxlUnCmMbFNJvOr0j5pShB1utCszvm2r3q6zw9euw52dy",
+  "role": "admin",
+  "block": false,
+  "address": "Thanh Hóa",
+  "createdAt": {
+    "$date": "2024-07-29T02:06:35.157Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-29T02:06:35.157Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a716d653ffd0586ba6b19e"
+  },
+  "userName": "phanthanhnam",
+  "fullName": "Phan Thành Nam",
+  "email": "phanthanhnam@gmail.com",
+  "password": "$2a$10$n20dWwuKliDqvYXtlX9.1usl4pEHC0QZVmp0wABDPPWP2zK96qcpu",
+  "role": "member",
+  "block": false,
+  "address": "Ha Noi",
+  "createdAt": {
+    "$date": "2024-07-29T04:13:10.506Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-29T04:13:10.506Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a720540e17d90e1e608135"
+  },
+  "userName": "abc123",
+  "fullName": "Hịp Nguễn",
+  "email": "mrhiep674@gmail.com",
+  "password": "$2a$10$z0aEbhfaScWgbjb0saEwx.cPZKgCuFJcnREA8rSofdrNS9rnO1YQ2",
+  "role": "member",
+  "block": false,
+  "address": "Ha Tay",
+  "createdAt": {
+    "$date": "2024-07-29T04:53:40.332Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-29T04:53:40.332Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a72c42d1946d51dea7ee66"
+  },
+  "userName": "thangnd@gmail.com",
+  "fullName": "Thangname",
+  "email": "twilight04123@gmail.com",
+  "password": "$2a$10$HmFNC9m8UoKs0x7dwKN.L.yKYiwfQ6n9aH64sNSzb.fuZLMIBS/mu",
+  "role": "member",
+  "block": false,
+  "address": "Hà Nội",
+  "createdAt": {
+    "$date": "2024-07-29T05:44:34.912Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-29T05:44:34.912Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66ac6968229311a4f13047e4"
+  },
+  "fullName": "Huy Hùng",
+  "tel": 377485926,
+  "email": "huyhung@gmail.com",
+  "password": "$2a$10$vR67RxU1n8AQX.ToDcfb0eMZqauahMMb9uuZefz7/3VUSruA.64US",
+  "role": "member",
+  "block": false,
+  "address": "Sơn Tây",
+  "createdAt": {
+    "$date": "2024-08-02T05:06:48.192Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-02T05:06:48.192Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66ac96377f85066f38e61088"
+  },
+  "fullName": "Nguyễn Hoài Nam",
+  "tel": "0983983985",
+  "email": "namnh@gmail.com",
+  "password": "$2a$10$gyj4F43yw7JfW2LjL/YR1u1cAyE5mBK112TC4yaD2W9c880upBi66",
+  "role": "member",
+  "block": false,
+  "address": "HN",
+  "createdAt": {
+    "$date": "2024-08-02T08:17:59.160Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-24T13:58:26.270Z"
+  },
+  "gender": "male"
+},
+{
+  "_id": {
+    "$oid": "66acc22579df647a3119c503"
+  },
+  "fullName": "Bùi Ngọc Sơn",
+  "tel": "0364662040",
+  "email": "buihoangson2003@gmail.com",
+  "password": "$2a$10$gnJZ1lYwhaO3wTV6okWT7eN6k6IHcpjsDqprgDgzcZVHug3FxzymK",
+  "role": "member",
+  "block": false,
+  "address": "Hà Nội",
+  "createdAt": {
+    "$date": "2024-08-02T11:25:25.109Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-02T11:25:25.109Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66ae2f51f1b1c637f66edb43"
+  },
+  "fullName": "thắng",
+  "tel": "0962838666",
+  "email": "thang@gmail.com",
+  "password": "$2a$10$kZUTXO08BK3xK69OjDPy2u7elSO2YBnTKVzr0tuAqtopcbOVhRTjC",
+  "role": "member",
+  "block": false,
+  "address": "Hà Nội",
+  "createdAt": {
+    "$date": "2024-08-03T13:23:29.274Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-03T13:23:29.274Z"
+  }
+}]

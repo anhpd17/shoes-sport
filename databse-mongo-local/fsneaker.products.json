@@ -1,0 +1,221 @@
+[{
+  "_id": {
+    "$oid": "66a4b4517c7a6b8c0dd16e46"
+  },
+  "name": "Giày Nike Air Jordan 1 Off White Blue Xanh Like Auth",
+  "description": "Thiết kế hợp tác với Off White, nổi bật với màu xanh da trời tươi sáng, dây buộc đặc trưng và chi tiết chữ viết bên hông. Chất liệu da và vải cao cấp, mang lại sự bền bỉ và thoải mái. Sản phẩm có chất lượng gần như giày chính hãng (Like Auth), lý tưởng cho những người yêu thích phong cách độc đáo và thời trang.",
+  "categoryId": {
+    "$oid": "667018b31a5262051e5d3079"
+  },
+  "status": "Hiện",
+  "createdAt": {
+    "$date": "2024-07-27T08:48:17.630Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-16T15:26:14.196Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a4b9aa7c7a6b8c0dd1732b"
+  },
+  "name": "Giày Nike Air Jordan 1 Low UNC 2021 Best Quality",
+  "description": "Thiết kế phối màu xanh trắng đặc trưng của Đại học North Carolina (UNC), mang lại vẻ ngoài tươi mới và cổ điển. Chất liệu da cao cấp, đế cao su bền bỉ và êm ái. Sản phẩm có chất lượng cao cấp nhất (Best Quality), đảm bảo sự thoải mái và phong cách đẳng cấp.",
+  "categoryId": {
+    "$oid": "667018b31a5262051e5d3079"
+  },
+  "status": "Hiện",
+  "createdAt": {
+    "$date": "2024-07-27T09:11:06.969Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T09:11:06.969Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a4bac47c7a6b8c0dd173e4"
+  },
+  "name": "Giày MLB Chunky Liner Piano Black New York Yankees Auth",
+  "description": "Thiết kế độc đáo với màu đen piano sang trọng và logo New York Yankees nổi bật. Chất liệu cao cấp, mang lại sự thoải mái và độ bền vượt trội. Sản phẩm có chất lượng gần như giày chính hãng (Auth), đảm bảo sự hài lòng và phong cách cho người sử dụng.",
+  "categoryId": {
+    "$oid": "66701a3684a617b1fe12cbf3"
+  },
+  "status": "Hiện",
+  "createdAt": {
+    "$date": "2024-07-27T09:15:48.094Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-29T04:42:07.230Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a4bbd37c7a6b8c0dd17417"
+  },
+  "name": "Giày Adidas Yeezy Boost 350 V2 ‘MX Rock’ Best Quality",
+  "description": "Thiết kế độc đáo với họa tiết ‘MX Rock’ nổi bật và chất liệu cao cấp. Giày có đế Boost êm ái, mang lại sự thoải mái tối đa cho người mang. Chất lượng cao cấp (Best Quality), đảm bảo độ bền và phong cách.",
+  "categoryId": {
+    "$oid": "6670197c84a617b1fe12cbe8"
+  },
+  "status": "Hiện",
+  "createdAt": {
+    "$date": "2024-07-27T09:20:19.062Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-02T08:42:43.459Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a4bd157c7a6b8c0dd17554"
+  },
+  "name": "Giày Converse Chuck Taylor 70 Plus Black",
+  "description": "Giày cổ điển với thiết kế màu đen tinh tế, phù hợp với nhiều phong cách. Chất liệu cao cấp, mang lại sự thoải mái và độ bền cao. Đế giày được cải tiến, đảm bảo sự linh hoạt và hỗ trợ tốt cho chân.",
+  "categoryId": {
+    "$oid": "66701a8684a617b1fe12cc09"
+  },
+  "status": "Hiện",
+  "createdAt": {
+    "$date": "2024-07-27T09:25:41.740Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-10T08:24:06.190Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a4bf187c7a6b8c0dd176c2"
+  },
+  "name": "Giày Nike Air Force 1 Trắng Full White Siêu Cấp – Xả Lỗ New 100%",
+  "description": "Giày trắng tinh khôi với thiết kế cổ điển, phù hợp với mọi trang phục. Chất liệu cao cấp, đảm bảo sự thoải mái và độ bền vượt trội. Sản phẩm mới 100%, đang được xả lỗ với mức giá hấp dẫn.",
+  "categoryId": {
+    "$oid": "667018b31a5262051e5d3079"
+  },
+  "status": "Hiện",
+  "createdAt": {
+    "$date": "2024-07-27T09:34:16.034Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-02T08:39:46.387Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a701377a968e7be3dbc4e7"
+  },
+  "name": "Giày MLB Bigball Chunky A New York Yankees Ivory",
+  "description": "Giày MLB BigBall Chunky A New York Yankees Ivory Ny vàng là mẫu giày mang phong cách năng động, trẻ trung và vô cùng cá tính. Sản phẩm này sở hữu tone màu trắng tinh tế, họa tiết với logo Ny vàng đặc trưng của MLB vô cùng độc đáo tạo nên điểm nhấn riêng biệt cho đôi giày, giúp mọi người dễ dàng phối đồ để đi học, đi chơi hay đi dạo phố, tạo nên điểm nhấn riêng cho phong cách của mỗi người.\n\nĐiểm nhấn của đôi giày là phần đệm lót êm ái bảo vệ đôi chân của mọi người khi chúng ta phải sử dụng trong thời gian dài. Ngoài ra, phần đế được làm cao giúp tôn dáng cho người dùng cực kỳ đẹp, phù hợp cho cả nam và nữ đều có thể sử dụng được.\nPhần dây giày cách điệu nổi bật trên nền trắng giày, phần đế giày cao 6cm được làm bằng chất liệu cao su hoàn toàn chống trơn trượt, an toàn cho người sử dụng.",
+  "categoryId": {
+    "$oid": "66701a3684a617b1fe12cbf3"
+  },
+  "status": "Hiện",
+  "createdAt": {
+    "$date": "2024-07-29T02:40:55.334Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-13T14:14:52.277Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a717657a968e7be3dbd9d3"
+  },
+  "name": "Giày Nike Air Jordan 1 Low Mocha Brown Best Quality",
+  "description": "Được thiết kế với tông màu nâu Mocha sang trọng, giày Nike Air Jordan 1 Low Mocha Brown mang đến sự kết hợp hoàn hảo giữa phong cách và sự thoải mái. Chất lượng tốt nhất (Best Quality) đảm bảo độ bền bỉ và cảm giác chân thật như giày chính hãng. Một lựa chọn tuyệt vời cho những ai yêu thích sự tinh tế và thời trang.\nMột đôi giày phù hợp với hiệu suất của bạn!",
+  "categoryId": {
+    "$oid": "667018b31a5262051e5d3079"
+  },
+  "status": "Hiện",
+  "createdAt": {
+    "$date": "2024-07-29T04:15:33.811Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-26T05:11:26.415Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a723d3331dc5beefaa0f8f"
+  },
+  "name": "Giày Nike Air Jordan 1 x Zion Williamson Retro Low OG ‘Voodoo’ Best Quality",
+  "description": "Cam kết chỉ bán giày chuẩn chất lượng từ Rep 1:1 - Like Auth - Best Quality từ các xưởng Best Trung Quốc\nHàng hoá chọn lọc hơn thị trường.\nLuôn sẵn size, sẵn kho, cần là có tại 2 chi nhánh Bắc Nam\nHàng có sẵn tại Shop. Không qua bên thứ 3 ---> Chất lượng giày qua kiểm định kỹ càng.\nVideo quay review, phân biệt so sánh từng chất lượng khác nhau.",
+  "categoryId": {
+    "$oid": "667018b31a5262051e5d3079"
+  },
+  "status": "Hiện",
+  "createdAt": {
+    "$date": "2024-07-29T05:08:35.074Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-26T09:33:52.584Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a7387bd1946d51dea80a4d"
+  },
+  "name": "Giày Nike SB Dunk Low Pro Fly Streetwear Gardenia Best Quality",
+  "description": "Thiết kế độc đáo với họa tiết Gardenia, mang lại phong cách streetwear cá tính. Chất liệu cao cấp, đảm bảo độ bền và sự thoải mái. Sản phẩm đạt chất lượng tốt nhất, phù hợp cho cả thời trang và hoạt động thể thao.",
+  "categoryId": {
+    "$oid": "667018b31a5262051e5d3079"
+  },
+  "status": "Hiện",
+  "createdAt": {
+    "$date": "2024-07-29T06:36:43.993Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-15T08:30:24.374Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc16eea1930b1f92c29cb1"
+  },
+  "name": "Giày MLB BigBall Chunky A Gradient Classic Monogram LA Dodgers Like Auth",
+  "description": "Thiết kế độc đáo với họa tiết Monogram LA Dodgers và sự chuyển màu Gradient thời thượng. Đôi giày mang đến phong cách cá tính, hiện đại và chất lượng gần như giày chính hãng (Like Auth), đảm bảo độ bền và sự thoải mái khi sử dụng.\n\n\n\n\n\n",
+  "categoryId": {
+    "$oid": "66701a3684a617b1fe12cbf3"
+  },
+  "status": "Hiện",
+  "createdAt": {
+    "$date": "2024-08-26T05:47:26.693Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-26T05:47:26.693Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4d528ab79c1f4726d9ac"
+  },
+  "name": "Giày Nike Air Jordan 1 Nrg Off White Like Auth",
+  "description": "Đôi giày nổi bật với thiết kế sáng tạo của Off White, mang phong cách streetwear hiện đại. Sự kết hợp giữa chất liệu cao cấp và chi tiết độc đáo giúp đôi giày trở thành lựa chọn hoàn hảo cho những ai yêu thích sự khác biệt và chất lượng gần như chính hãng (Like Auth).\n\n\n\n\n\n",
+  "categoryId": {
+    "$oid": "667018b31a5262051e5d3079"
+  },
+  "status": "Hiện",
+  "createdAt": {
+    "$date": "2024-08-26T09:39:30.074Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-26T09:39:30.074Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4e7d8ab79c1f4726dcd7"
+  },
+  "name": "Giày Nike Air Jordan 1 Retro High OG ‘Black Toe’ Like Auth",
+  "description": "Đôi giày với phối màu đặc trưng đen-đỏ-trắng, nổi bật ở phần mũi giày màu đen, tạo nên sự tương phản và phong cách cổ điển. Chất liệu da cao cấp và thiết kế gần giống hàng chính hãng (Like Auth) mang lại cảm giác thoải mái và thời trang cho người dùng.",
+  "categoryId": {
+    "$oid": "667018b31a5262051e5d3079"
+  },
+  "status": "Hiện",
+  "createdAt": {
+    "$date": "2024-08-26T09:44:29.716Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-26T09:44:29.716Z"
+  }
+}]

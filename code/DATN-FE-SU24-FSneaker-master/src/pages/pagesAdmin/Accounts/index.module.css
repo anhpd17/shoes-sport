@@ -1,0 +1,13 @@
+.container {
+    padding-left: 32px;
+    padding-top: 32px;
+    min-height: 100vh;
+}
+
+:global(.ant-btn-primary) {
+    background-color: #1677ff !important;
+}
+
+.addForm {
+    padding-right: 32px;
+}

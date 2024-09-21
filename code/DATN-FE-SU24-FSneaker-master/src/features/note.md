@@ -1,0 +1,1 @@
+# Folde để chứa chức năng của 1 page nào đó

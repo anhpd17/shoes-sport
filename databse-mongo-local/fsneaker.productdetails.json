@@ -1,0 +1,2200 @@
+[{
+  "_id": {
+    "$oid": "66a2181403f5a1cec11fedce"
+  },
+  "quantity": 20,
+  "price": 850000,
+  "importPrice": 500000,
+  "promotionalPrice": 700000,
+  "product": {
+    "$oid": "66a2181403f5a1cec11fedbc"
+  },
+  "sizes": {
+    "$oid": "66701d3ab2f455dd3c88c3c8"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-07-25T09:17:08.790Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-25T09:17:08.790Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a2181403f5a1cec11fedca"
+  },
+  "quantity": 30,
+  "price": 850000,
+  "importPrice": 500000,
+  "promotionalPrice": 700000,
+  "product": {
+    "$oid": "66a2181403f5a1cec11fedbc"
+  },
+  "sizes": {
+    "$oid": "66701ab284a617b1fe12cc14"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-07-25T09:17:08.790Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T09:52:37.934Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a2181403f5a1cec11fedcc"
+  },
+  "quantity": 5,
+  "price": 850000,
+  "importPrice": 500000,
+  "promotionalPrice": 700000,
+  "product": {
+    "$oid": "66a2181403f5a1cec11fedbc"
+  },
+  "sizes": {
+    "$oid": "66701d33b2f455dd3c88c3c0"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-07-25T09:17:08.790Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-25T09:17:08.790Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a2181403f5a1cec11fedcd"
+  },
+  "quantity": 10,
+  "price": 850000,
+  "importPrice": 500000,
+  "promotionalPrice": 700000,
+  "product": {
+    "$oid": "66a2181403f5a1cec11fedbc"
+  },
+  "sizes": {
+    "$oid": "66701d37b2f455dd3c88c3c4"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-07-25T09:17:08.790Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-25T09:17:08.790Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a2181403f5a1cec11fedcb"
+  },
+  "quantity": 20,
+  "price": 850000,
+  "importPrice": 500000,
+  "promotionalPrice": 700000,
+  "product": {
+    "$oid": "66a2181403f5a1cec11fedbc"
+  },
+  "sizes": {
+    "$oid": "66701d2db2f455dd3c88c3bc"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-07-25T09:17:08.790Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-25T09:17:08.790Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a3071db07e51bf4e889c35"
+  },
+  "quantity": 26,
+  "price": 1050000,
+  "importPrice": 500000,
+  "promotionalPrice": 799000,
+  "product": {
+    "$oid": "66a3071cb07e51bf4e889c2c"
+  },
+  "sizes": {
+    "$oid": "66701aab84a617b1fe12cc10"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-07-26T02:17:01.029Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-26T02:17:01.029Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a3071db07e51bf4e889c36"
+  },
+  "quantity": 20,
+  "price": 1060000,
+  "importPrice": 600000,
+  "promotionalPrice": 899000,
+  "product": {
+    "$oid": "66a3071cb07e51bf4e889c2c"
+  },
+  "sizes": {
+    "$oid": "66701ab284a617b1fe12cc14"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-07-26T02:17:01.029Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-26T02:17:01.029Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a30923b07e51bf4e889c8f"
+  },
+  "quantity": 14,
+  "price": 1350000,
+  "importPrice": 600000,
+  "promotionalPrice": 950000,
+  "product": {
+    "$oid": "66a30922b07e51bf4e889c7a"
+  },
+  "sizes": {
+    "$oid": "66701ab284a617b1fe12cc14"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-07-26T02:25:39.234Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-26T02:25:39.234Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a30923b07e51bf4e889c92"
+  },
+  "quantity": 5,
+  "price": 1450000,
+  "importPrice": 500000,
+  "promotionalPrice": 850000,
+  "product": {
+    "$oid": "66a30922b07e51bf4e889c7a"
+  },
+  "sizes": {
+    "$oid": "66701d37b2f455dd3c88c3c4"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-07-26T02:25:39.234Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-26T02:25:39.234Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a30923b07e51bf4e889c93"
+  },
+  "quantity": 46,
+  "price": 1490000,
+  "importPrice": 650000,
+  "promotionalPrice": 900000,
+  "product": {
+    "$oid": "66a30922b07e51bf4e889c7a"
+  },
+  "sizes": {
+    "$oid": "66701d3ab2f455dd3c88c3c8"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-07-26T02:25:39.234Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-26T02:25:39.234Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a30923b07e51bf4e889c94"
+  },
+  "quantity": 11,
+  "price": 1790000,
+  "importPrice": 700000,
+  "promotionalPrice": 1400000,
+  "product": {
+    "$oid": "66a30922b07e51bf4e889c7a"
+  },
+  "sizes": {
+    "$oid": "66701d3eb2f455dd3c88c3cc"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-07-26T02:25:39.234Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-26T02:25:39.234Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a30923b07e51bf4e889c95"
+  },
+  "quantity": 19,
+  "price": 1300000,
+  "importPrice": 550000,
+  "promotionalPrice": 990000,
+  "product": {
+    "$oid": "66a30922b07e51bf4e889c7a"
+  },
+  "sizes": {
+    "$oid": "66701d42b2f455dd3c88c3d0"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-07-26T02:25:39.234Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-26T02:25:39.234Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a30923b07e51bf4e889c8e"
+  },
+  "quantity": 10,
+  "price": 1250000,
+  "importPrice": 500000,
+  "promotionalPrice": 850000,
+  "product": {
+    "$oid": "66a30922b07e51bf4e889c7a"
+  },
+  "sizes": {
+    "$oid": "66701aab84a617b1fe12cc10"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-07-26T02:25:39.233Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-26T02:25:39.233Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a30923b07e51bf4e889c90"
+  },
+  "quantity": 19,
+  "price": 1450000,
+  "importPrice": 500000,
+  "promotionalPrice": 850000,
+  "product": {
+    "$oid": "66a30922b07e51bf4e889c7a"
+  },
+  "sizes": {
+    "$oid": "66701d2db2f455dd3c88c3bc"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-07-26T02:25:39.234Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-26T02:25:39.234Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a30923b07e51bf4e889c91"
+  },
+  "quantity": 12,
+  "price": 1400000,
+  "importPrice": 650000,
+  "promotionalPrice": 1000000,
+  "product": {
+    "$oid": "66a30922b07e51bf4e889c7a"
+  },
+  "sizes": {
+    "$oid": "66701d33b2f455dd3c88c3c0"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-07-26T02:25:39.234Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-26T02:25:39.234Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a309afb07e51bf4e889cba"
+  },
+  "quantity": 26,
+  "price": 1150000,
+  "importPrice": 200000,
+  "promotionalPrice": 400000,
+  "product": {
+    "$oid": "66a309afb07e51bf4e889caf"
+  },
+  "sizes": {
+    "$oid": "66701d2db2f455dd3c88c3bc"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-07-26T02:27:59.436Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-26T02:27:59.436Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a309afb07e51bf4e889cbb"
+  },
+  "quantity": 15,
+  "price": 1150000,
+  "importPrice": 350000,
+  "promotionalPrice": 450000,
+  "product": {
+    "$oid": "66a309afb07e51bf4e889caf"
+  },
+  "sizes": {
+    "$oid": "66701d33b2f455dd3c88c3c0"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-07-26T02:27:59.436Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-26T02:27:59.436Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a30a76b07e51bf4e889cec"
+  },
+  "quantity": 20,
+  "price": 1300000,
+  "importPrice": 500000,
+  "promotionalPrice": 750000,
+  "product": {
+    "$oid": "66a30a75b07e51bf4e889cde"
+  },
+  "sizes": {
+    "$oid": "66701d37b2f455dd3c88c3c4"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-07-26T02:31:18.241Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-26T02:31:18.241Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a30a76b07e51bf4e889cea"
+  },
+  "quantity": 26,
+  "price": 1150000,
+  "importPrice": 500000,
+  "promotionalPrice": 750000,
+  "product": {
+    "$oid": "66a30a75b07e51bf4e889cde"
+  },
+  "sizes": {
+    "$oid": "66701aab84a617b1fe12cc10"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-07-26T02:31:18.241Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-26T02:31:18.241Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a30a76b07e51bf4e889ceb"
+  },
+  "quantity": 28,
+  "price": 1250000,
+  "importPrice": 500000,
+  "promotionalPrice": 800000,
+  "product": {
+    "$oid": "66a30a75b07e51bf4e889cde"
+  },
+  "sizes": {
+    "$oid": "66701ab284a617b1fe12cc14"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-07-26T02:31:18.241Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-26T02:31:18.241Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a30ec7b07e51bf4e889d97"
+  },
+  "quantity": 23,
+  "price": 3100000,
+  "importPrice": 1000000,
+  "promotionalPrice": 2590000,
+  "product": {
+    "$oid": "66a30ec7b07e51bf4e889d8c"
+  },
+  "sizes": {
+    "$oid": "66701aab84a617b1fe12cc10"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-07-26T02:49:43.699Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-26T02:49:43.699Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a30ec7b07e51bf4e889d98"
+  },
+  "quantity": 20,
+  "price": 3100000,
+  "importPrice": 1000000,
+  "promotionalPrice": 2690000,
+  "product": {
+    "$oid": "66a30ec7b07e51bf4e889d8c"
+  },
+  "sizes": {
+    "$oid": "66701d33b2f455dd3c88c3c0"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-07-26T02:49:43.699Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-26T02:49:43.699Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a3114bb07e51bf4e889f46"
+  },
+  "quantity": 14,
+  "price": 4450000,
+  "importPrice": 1200000,
+  "promotionalPrice": 3590000,
+  "product": {
+    "$oid": "66a3114ab07e51bf4e889f3c"
+  },
+  "sizes": {
+    "$oid": "66701ab284a617b1fe12cc14"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-07-26T03:00:27.347Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-26T03:00:27.347Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a3114bb07e51bf4e889f47"
+  },
+  "quantity": 18,
+  "price": 4000000,
+  "importPrice": 1200000,
+  "promotionalPrice": 3290000,
+  "product": {
+    "$oid": "66a3114ab07e51bf4e889f3c"
+  },
+  "sizes": {
+    "$oid": "66701d2db2f455dd3c88c3bc"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-07-26T03:00:27.347Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-26T03:00:27.347Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a3114bb07e51bf4e889f48"
+  },
+  "quantity": 17,
+  "price": 4500000,
+  "importPrice": 1200000,
+  "promotionalPrice": 3650000,
+  "product": {
+    "$oid": "66a3114ab07e51bf4e889f3c"
+  },
+  "sizes": {
+    "$oid": "66701d33b2f455dd3c88c3c0"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-07-26T03:00:27.347Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-26T03:00:27.347Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a312f0b07e51bf4e88a08d"
+  },
+  "quantity": 21,
+  "price": 3800000,
+  "importPrice": 1000000,
+  "promotionalPrice": 2900000,
+  "product": {
+    "$oid": "66a312efb07e51bf4e88a081"
+  },
+  "sizes": {
+    "$oid": "66701d33b2f455dd3c88c3c0"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-07-26T03:07:28.363Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-26T03:07:28.363Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a312f0b07e51bf4e88a08b"
+  },
+  "quantity": 15,
+  "price": 3500000,
+  "importPrice": 1000000,
+  "promotionalPrice": 2900000,
+  "product": {
+    "$oid": "66a312efb07e51bf4e88a081"
+  },
+  "sizes": {
+    "$oid": "66701ab284a617b1fe12cc14"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-07-26T03:07:28.363Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-26T03:07:28.363Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a312f0b07e51bf4e88a08c"
+  },
+  "quantity": 25,
+  "price": 3700000,
+  "importPrice": 1000000,
+  "promotionalPrice": 2100000,
+  "product": {
+    "$oid": "66a312efb07e51bf4e88a081"
+  },
+  "sizes": {
+    "$oid": "66701d2db2f455dd3c88c3bc"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-07-26T03:07:28.363Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-26T03:07:28.363Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a45e0491931d004cbf18d7"
+  },
+  "quantity": 1,
+  "price": 12,
+  "importPrice": 11,
+  "promotionalPrice": 12,
+  "product": {
+    "$oid": "66a45e0391931d004cbf18cf"
+  },
+  "sizes": {
+    "$oid": "66701aab84a617b1fe12cc10"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-07-27T02:40:04.228Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T02:40:04.228Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a45e3791931d004cbf1951"
+  },
+  "quantity": 1,
+  "price": 14,
+  "importPrice": 1,
+  "promotionalPrice": 12,
+  "product": {
+    "$oid": "66a45e3691931d004cbf1949"
+  },
+  "sizes": {
+    "$oid": "66701aab84a617b1fe12cc10"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-07-27T02:40:55.635Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T02:40:55.635Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a484f17ae1551f8a26e7d7"
+  },
+  "quantity": 20,
+  "price": 666,
+  "importPrice": 333,
+  "promotionalPrice": 555,
+  "product": {
+    "$oid": "66a484f17ae1551f8a26e7cf"
+  },
+  "sizes": {
+    "$oid": "66701d33b2f455dd3c88c3c0"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-07-27T05:26:09.788Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T05:26:09.788Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a4b4527c7a6b8c0dd16e52"
+  },
+  "quantity": 2,
+  "price": 1690000,
+  "importPrice": 1200000,
+  "promotionalPrice": 1290000,
+  "product": {
+    "$oid": "66a4b4517c7a6b8c0dd16e46"
+  },
+  "sizes": {
+    "$oid": "66701d3eb2f455dd3c88c3cc"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-07-27T08:48:18.057Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-04T07:25:39.752Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a4b4527c7a6b8c0dd16e50"
+  },
+  "quantity": 4430,
+  "price": 1690000,
+  "importPrice": 1200000,
+  "promotionalPrice": 1290000,
+  "product": {
+    "$oid": "66a4b4517c7a6b8c0dd16e46"
+  },
+  "sizes": {
+    "$oid": "66701d33b2f455dd3c88c3c0"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-07-27T08:48:18.057Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-26T04:17:36.392Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a4b4527c7a6b8c0dd16e51"
+  },
+  "quantity": 3,
+  "price": 1690000,
+  "importPrice": 1200000,
+  "promotionalPrice": 1290000,
+  "product": {
+    "$oid": "66a4b4517c7a6b8c0dd16e46"
+  },
+  "sizes": {
+    "$oid": "66701d37b2f455dd3c88c3c4"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-07-27T08:48:18.057Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-07T15:14:03.124Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a4b9ab7c7a6b8c0dd17337"
+  },
+  "quantity": 35,
+  "price": 2000000,
+  "importPrice": 1490000,
+  "promotionalPrice": 1590000,
+  "product": {
+    "$oid": "66a4b9aa7c7a6b8c0dd1732b"
+  },
+  "sizes": {
+    "$oid": "66701ab284a617b1fe12cc14"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-07-27T09:11:07.413Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-24T14:25:20.569Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a4b9ab7c7a6b8c0dd17336"
+  },
+  "quantity": 27,
+  "price": 2000000,
+  "importPrice": 1490000,
+  "promotionalPrice": 1590000,
+  "product": {
+    "$oid": "66a4b9aa7c7a6b8c0dd1732b"
+  },
+  "sizes": {
+    "$oid": "66701d2db2f455dd3c88c3bc"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-07-27T09:11:07.412Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-26T09:34:02.623Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a4b9ab7c7a6b8c0dd17339"
+  },
+  "quantity": 26,
+  "price": 2000000,
+  "importPrice": 1490000,
+  "promotionalPrice": 1590000,
+  "product": {
+    "$oid": "66a4b9aa7c7a6b8c0dd1732b"
+  },
+  "sizes": {
+    "$oid": "66701d3eb2f455dd3c88c3cc"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-07-27T09:11:07.413Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-29T03:29:36.069Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a4b9ab7c7a6b8c0dd17338"
+  },
+  "quantity": 30,
+  "price": 2000000,
+  "importPrice": 1490000,
+  "promotionalPrice": 1590000,
+  "product": {
+    "$oid": "66a4b9aa7c7a6b8c0dd1732b"
+  },
+  "sizes": {
+    "$oid": "66701d33b2f455dd3c88c3c0"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-07-27T09:11:07.413Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-23T10:56:25.766Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a4bac47c7a6b8c0dd173f1"
+  },
+  "quantity": 25,
+  "price": 2600000,
+  "importPrice": 2200000,
+  "promotionalPrice": 2290000,
+  "product": {
+    "$oid": "66a4bac47c7a6b8c0dd173e4"
+  },
+  "sizes": {
+    "$oid": "66701d37b2f455dd3c88c3c4"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-07-27T09:15:48.541Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-25T15:39:15.132Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a4bac47c7a6b8c0dd173f3"
+  },
+  "quantity": 29,
+  "price": 2600000,
+  "importPrice": 2200000,
+  "promotionalPrice": 2290000,
+  "product": {
+    "$oid": "66a4bac47c7a6b8c0dd173e4"
+  },
+  "sizes": {
+    "$oid": "66701d45b2f455dd3c88c3d4"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-07-27T09:15:48.542Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-24T15:00:17.288Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a4bac47c7a6b8c0dd173f2"
+  },
+  "quantity": 27,
+  "price": 2600000,
+  "importPrice": 2200000,
+  "promotionalPrice": 2290000,
+  "product": {
+    "$oid": "66a4bac47c7a6b8c0dd173e4"
+  },
+  "sizes": {
+    "$oid": "66701d3eb2f455dd3c88c3cc"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-07-27T09:15:48.542Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-14T06:04:12.066Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a4bac47c7a6b8c0dd173f4"
+  },
+  "quantity": 8,
+  "price": 2600000,
+  "importPrice": 2200000,
+  "promotionalPrice": 2290000,
+  "product": {
+    "$oid": "66a4bac47c7a6b8c0dd173e4"
+  },
+  "sizes": {
+    "$oid": "66701d3ab2f455dd3c88c3c8"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-07-27T09:15:48.542Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-31T16:27:59.669Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a4bbd37c7a6b8c0dd17425"
+  },
+  "quantity": 9,
+  "price": 3500000,
+  "importPrice": 2900000,
+  "promotionalPrice": 2990000,
+  "product": {
+    "$oid": "66a4bbd37c7a6b8c0dd17417"
+  },
+  "sizes": {
+    "$oid": "66701d4cb2f455dd3c88c3dc"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-07-27T09:20:19.492Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-04T07:25:39.644Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a4bbd37c7a6b8c0dd17427"
+  },
+  "quantity": 1,
+  "price": 3500000,
+  "importPrice": 2900000,
+  "promotionalPrice": 2990000,
+  "product": {
+    "$oid": "66a4bbd37c7a6b8c0dd17417"
+  },
+  "sizes": {
+    "$oid": "66701d42b2f455dd3c88c3d0"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-07-27T09:20:19.492Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-07T15:18:54.510Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a4bbd37c7a6b8c0dd17424"
+  },
+  "quantity": 4,
+  "price": 3500000,
+  "importPrice": 2900000,
+  "promotionalPrice": 2990000,
+  "product": {
+    "$oid": "66a4bbd37c7a6b8c0dd17417"
+  },
+  "sizes": {
+    "$oid": "66701d33b2f455dd3c88c3c0"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-07-27T09:20:19.492Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-20T15:12:35.113Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a4bbd37c7a6b8c0dd17426"
+  },
+  "quantity": 11,
+  "price": 3500000,
+  "importPrice": 2900000,
+  "promotionalPrice": 2990000,
+  "product": {
+    "$oid": "66a4bbd37c7a6b8c0dd17417"
+  },
+  "sizes": {
+    "$oid": "66701d4fb2f455dd3c88c3e0"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-07-27T09:20:19.492Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-23T10:10:33.775Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a4bd167c7a6b8c0dd17561"
+  },
+  "quantity": 24,
+  "price": 1500000,
+  "importPrice": 850000,
+  "promotionalPrice": 990000,
+  "product": {
+    "$oid": "66a4bd157c7a6b8c0dd17554"
+  },
+  "sizes": {
+    "$oid": "66701ab284a617b1fe12cc14"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-07-27T09:25:42.165Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-24T15:14:13.892Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a4bd167c7a6b8c0dd17562"
+  },
+  "quantity": 41,
+  "price": 1500000,
+  "importPrice": 850000,
+  "promotionalPrice": 990000,
+  "product": {
+    "$oid": "66a4bd157c7a6b8c0dd17554"
+  },
+  "sizes": {
+    "$oid": "66701d33b2f455dd3c88c3c0"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-07-27T09:25:42.165Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T09:25:42.165Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a4bd167c7a6b8c0dd17563"
+  },
+  "quantity": 21,
+  "price": 1500000,
+  "importPrice": 850000,
+  "promotionalPrice": 990000,
+  "product": {
+    "$oid": "66a4bd157c7a6b8c0dd17554"
+  },
+  "sizes": {
+    "$oid": "66701d37b2f455dd3c88c3c4"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-07-27T09:25:42.165Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-11T15:05:14.824Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a4bd167c7a6b8c0dd17564"
+  },
+  "quantity": 30,
+  "price": 1500000,
+  "importPrice": 850000,
+  "promotionalPrice": 990000,
+  "product": {
+    "$oid": "66a4bd157c7a6b8c0dd17554"
+  },
+  "sizes": {
+    "$oid": "66701d3ab2f455dd3c88c3c8"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-07-27T09:25:42.165Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-29T03:58:52.953Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a4bf187c7a6b8c0dd176d3"
+  },
+  "quantity": 25,
+  "price": 800000,
+  "importPrice": 350000,
+  "promotionalPrice": 390000,
+  "product": {
+    "$oid": "66a4bf187c7a6b8c0dd176c2"
+  },
+  "sizes": {
+    "$oid": "66701d3ab2f455dd3c88c3c8"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-07-27T09:34:16.490Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-29T09:18:39.654Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a4bf187c7a6b8c0dd176d6"
+  },
+  "quantity": 36,
+  "price": 800000,
+  "importPrice": 350000,
+  "promotionalPrice": 390000,
+  "product": {
+    "$oid": "66a4bf187c7a6b8c0dd176c2"
+  },
+  "sizes": {
+    "$oid": "66701d42b2f455dd3c88c3d0"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-07-27T09:34:16.490Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T09:34:16.490Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a4bf187c7a6b8c0dd176d1"
+  },
+  "quantity": 36,
+  "price": 800000,
+  "importPrice": 350000,
+  "promotionalPrice": 390000,
+  "product": {
+    "$oid": "66a4bf187c7a6b8c0dd176c2"
+  },
+  "sizes": {
+    "$oid": "66701d37b2f455dd3c88c3c4"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-07-27T09:34:16.490Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-29T06:40:06.212Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a4bf187c7a6b8c0dd176d2"
+  },
+  "quantity": 40,
+  "price": 800000,
+  "importPrice": 350000,
+  "promotionalPrice": 390000,
+  "product": {
+    "$oid": "66a4bf187c7a6b8c0dd176c2"
+  },
+  "sizes": {
+    "$oid": "66701ab284a617b1fe12cc14"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-07-27T09:34:16.490Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-02T08:38:48.373Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a4bf187c7a6b8c0dd176d5"
+  },
+  "quantity": 19,
+  "price": 800000,
+  "importPrice": 350000,
+  "promotionalPrice": 390000,
+  "product": {
+    "$oid": "66a4bf187c7a6b8c0dd176c2"
+  },
+  "sizes": {
+    "$oid": "66701d3eb2f455dd3c88c3cc"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-07-27T09:34:16.490Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T09:34:16.490Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a4bf187c7a6b8c0dd176d4"
+  },
+  "quantity": 35,
+  "price": 800000,
+  "importPrice": 350000,
+  "promotionalPrice": 390000,
+  "product": {
+    "$oid": "66a4bf187c7a6b8c0dd176c2"
+  },
+  "sizes": {
+    "$oid": "66701d33b2f455dd3c88c3c0"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-07-27T09:34:16.490Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-02T08:38:48.248Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a4bf187c7a6b8c0dd176d7"
+  },
+  "quantity": 17,
+  "price": 800000,
+  "importPrice": 350000,
+  "promotionalPrice": 390000,
+  "product": {
+    "$oid": "66a4bf187c7a6b8c0dd176c2"
+  },
+  "sizes": {
+    "$oid": "66701d45b2f455dd3c88c3d4"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-07-27T09:34:16.490Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T09:34:16.490Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a4bf187c7a6b8c0dd176d8"
+  },
+  "quantity": 22,
+  "price": 800000,
+  "importPrice": 350000,
+  "promotionalPrice": 390000,
+  "product": {
+    "$oid": "66a4bf187c7a6b8c0dd176c2"
+  },
+  "sizes": {
+    "$oid": "66701d49b2f455dd3c88c3d8"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-07-27T09:34:16.490Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T09:34:16.490Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a701377a968e7be3dbc4f3"
+  },
+  "quantity": 16,
+  "price": 1500000,
+  "importPrice": 60000,
+  "promotionalPrice": 1000000,
+  "product": {
+    "$oid": "66a701377a968e7be3dbc4e7"
+  },
+  "sizes": {
+    "$oid": "66701ab284a617b1fe12cc14"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-07-29T02:40:55.937Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-13T14:10:01.372Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a701377a968e7be3dbc4f2"
+  },
+  "quantity": 9,
+  "price": 1500000,
+  "importPrice": 600000,
+  "promotionalPrice": 1000000,
+  "product": {
+    "$oid": "66a701377a968e7be3dbc4e7"
+  },
+  "sizes": {
+    "$oid": "66701aab84a617b1fe12cc10"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-07-29T02:40:55.937Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-02T11:26:55.454Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a701e37a968e7be3dbc5e6"
+  },
+  "quantity": 14,
+  "price": 1500000,
+  "importPrice": 600000,
+  "promotionalPrice": 1000000,
+  "product": {
+    "$oid": "66a701377a968e7be3dbc4e7"
+  },
+  "sizes": {
+    "$oid": "66701d37b2f455dd3c88c3c4"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-07-29T02:43:47.149Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-20T14:55:18.184Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a70e9c7a968e7be3dbcdc9"
+  },
+  "quantity": 20,
+  "price": 2400000,
+  "importPrice": 750000,
+  "promotionalPrice": 1800000,
+  "product": {
+    "$oid": "66a70e9b7a968e7be3dbcdbe"
+  },
+  "sizes": {
+    "$oid": "66701d2db2f455dd3c88c3bc"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-07-29T03:38:04.418Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-01T18:27:16.406Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a70e9c7a968e7be3dbcdca"
+  },
+  "quantity": 8,
+  "price": 2400000,
+  "importPrice": 750000,
+  "promotionalPrice": 1800000,
+  "product": {
+    "$oid": "66a70e9b7a968e7be3dbcdbe"
+  },
+  "sizes": {
+    "$oid": "66701d33b2f455dd3c88c3c0"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-07-29T03:38:04.418Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-31T17:45:04.388Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a7134c0e17d90e1e606a25"
+  },
+  "quantity": 0,
+  "price": 950000,
+  "importPrice": 500000,
+  "promotionalPrice": 690000,
+  "product": {
+    "$oid": "66a7134b0e17d90e1e606a16"
+  },
+  "sizes": {
+    "$oid": "66701d3ab2f455dd3c88c3c8"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-07-29T03:58:04.314Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-01T18:22:32.489Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a7134c0e17d90e1e606a23"
+  },
+  "quantity": 2,
+  "price": 950000,
+  "importPrice": 500000,
+  "promotionalPrice": 700000,
+  "product": {
+    "$oid": "66a7134b0e17d90e1e606a16"
+  },
+  "sizes": {
+    "$oid": "66701d33b2f455dd3c88c3c0"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-07-29T03:58:04.314Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-31T16:17:25.130Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a7134c0e17d90e1e606a26"
+  },
+  "quantity": 19,
+  "price": 950000,
+  "importPrice": 500000,
+  "promotionalPrice": 690000,
+  "product": {
+    "$oid": "66a7134b0e17d90e1e606a16"
+  },
+  "sizes": {
+    "$oid": "66701d3eb2f455dd3c88c3cc"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-07-29T03:58:04.315Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-02T08:07:37.458Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a7134c0e17d90e1e606a24"
+  },
+  "quantity": 0,
+  "price": 950000,
+  "importPrice": 500000,
+  "promotionalPrice": 700000,
+  "product": {
+    "$oid": "66a7134b0e17d90e1e606a16"
+  },
+  "sizes": {
+    "$oid": "66701d37b2f455dd3c88c3c4"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-07-29T03:58:04.314Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-31T16:17:25.286Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a717667a968e7be3dbd9df"
+  },
+  "quantity": 38,
+  "price": 3000000,
+  "importPrice": 1900000,
+  "promotionalPrice": 1990000,
+  "product": {
+    "$oid": "66a717657a968e7be3dbd9d3"
+  },
+  "sizes": {
+    "$oid": "66701ab284a617b1fe12cc14"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-07-29T04:15:34.249Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-26T05:11:26.435Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a717667a968e7be3dbd9de"
+  },
+  "quantity": 45,
+  "price": 3000000,
+  "importPrice": 1900000,
+  "promotionalPrice": 1990000,
+  "product": {
+    "$oid": "66a717657a968e7be3dbd9d3"
+  },
+  "sizes": {
+    "$oid": "66701aab84a617b1fe12cc10"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-07-29T04:15:34.249Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-26T05:11:26.586Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a71b690e17d90e1e6074d3"
+  },
+  "quantity": 45,
+  "price": 3000000,
+  "importPrice": 1900000,
+  "promotionalPrice": 1990000,
+  "product": {
+    "$oid": "66a717657a968e7be3dbd9d3"
+  },
+  "sizes": {
+    "$oid": "66701d33b2f455dd3c88c3c0"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-07-29T04:32:41.290Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-26T05:20:36.989Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a721200e17d90e1e608398"
+  },
+  "quantity": 0,
+  "price": 950000,
+  "importPrice": 500000,
+  "promotionalPrice": 700000,
+  "product": {
+    "$oid": "66a721200e17d90e1e60838f"
+  },
+  "sizes": {
+    "$oid": "66701d37b2f455dd3c88c3c4"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-07-29T04:57:04.932Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-02T00:52:40.856Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a721200e17d90e1e608399"
+  },
+  "quantity": 0,
+  "price": 950000,
+  "importPrice": 500000,
+  "promotionalPrice": 700000,
+  "product": {
+    "$oid": "66a721200e17d90e1e60838f"
+  },
+  "sizes": {
+    "$oid": "66701d3ab2f455dd3c88c3c8"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-07-29T04:57:04.933Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-29T04:57:04.933Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a723d3331dc5beefaa0f9c"
+  },
+  "quantity": 18,
+  "price": 4000000,
+  "importPrice": 3400000,
+  "promotionalPrice": 3490000,
+  "product": {
+    "$oid": "66a723d3331dc5beefaa0f8f"
+  },
+  "sizes": {
+    "$oid": "66701ab284a617b1fe12cc14"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-07-29T05:08:35.591Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-26T05:30:03.540Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a723d3331dc5beefaa0f9d"
+  },
+  "quantity": 36,
+  "price": 4000000,
+  "importPrice": 3400000,
+  "promotionalPrice": 3490000,
+  "product": {
+    "$oid": "66a723d3331dc5beefaa0f8f"
+  },
+  "sizes": {
+    "$oid": "66701d2db2f455dd3c88c3bc"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-07-29T05:08:35.591Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-26T05:30:03.664Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a723d3331dc5beefaa0f9b"
+  },
+  "quantity": 39,
+  "price": 4000000,
+  "importPrice": 3400000,
+  "promotionalPrice": 3490000,
+  "product": {
+    "$oid": "66a723d3331dc5beefaa0f8f"
+  },
+  "sizes": {
+    "$oid": "66701aab84a617b1fe12cc10"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-07-29T05:08:35.591Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-26T09:23:24.327Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a73019331dc5beefaa2c65"
+  },
+  "quantity": 38,
+  "price": 1500000,
+  "importPrice": 1000000,
+  "promotionalPrice": 1090000,
+  "product": {
+    "$oid": "66a73018331dc5beefaa2c5c"
+  },
+  "sizes": {
+    "$oid": "66701aab84a617b1fe12cc10"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-07-29T06:00:57.211Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-26T05:43:44.580Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a73019331dc5beefaa2c66"
+  },
+  "quantity": 36,
+  "price": 1500000,
+  "importPrice": 1000000,
+  "promotionalPrice": 1090000,
+  "product": {
+    "$oid": "66a73018331dc5beefaa2c5c"
+  },
+  "sizes": {
+    "$oid": "66701ab284a617b1fe12cc14"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-07-29T06:00:57.211Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-26T05:43:44.761Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a7387cd1946d51dea80a58"
+  },
+  "quantity": 0,
+  "price": 3000000,
+  "importPrice": 2400000,
+  "promotionalPrice": 2490000,
+  "product": {
+    "$oid": "66a7387bd1946d51dea80a4d"
+  },
+  "sizes": {
+    "$oid": "66701d37b2f455dd3c88c3c4"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-07-29T06:36:44.447Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-15T08:33:46.743Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a7387cd1946d51dea80a59"
+  },
+  "quantity": 20,
+  "price": 3000000,
+  "importPrice": 2400000,
+  "promotionalPrice": 2490000,
+  "product": {
+    "$oid": "66a7387bd1946d51dea80a4d"
+  },
+  "sizes": {
+    "$oid": "66701d3ab2f455dd3c88c3c8"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-07-29T06:36:44.447Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-25T17:51:15.119Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a7bb01b1fed22f44688231"
+  },
+  "quantity": 0,
+  "price": 1500000,
+  "importPrice": 500000,
+  "promotionalPrice": 1000000,
+  "product": {
+    "$oid": "66a7bb00b1fed22f44688226"
+  },
+  "sizes": {
+    "$oid": "66701aab84a617b1fe12cc10"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-07-29T15:53:37.450Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-29T15:55:45.632Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a7bb01b1fed22f44688232"
+  },
+  "quantity": 0,
+  "price": 1500000,
+  "importPrice": 500000,
+  "promotionalPrice": 1000000,
+  "product": {
+    "$oid": "66a7bb00b1fed22f44688226"
+  },
+  "sizes": {
+    "$oid": "66701ab284a617b1fe12cc14"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-07-29T15:53:37.450Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-29T15:53:37.450Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66ae0263ca92df3cc738e1e2"
+  },
+  "quantity": 0,
+  "price": 2000000,
+  "importPrice": 1000000,
+  "promotionalPrice": 1500000,
+  "product": {
+    "$oid": "66ae0263ca92df3cc738e1d9"
+  },
+  "sizes": {
+    "$oid": "66701aab84a617b1fe12cc10"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-08-03T10:11:47.867Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-08T13:35:00.725Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66ae0263ca92df3cc738e1e3"
+  },
+  "quantity": 10,
+  "price": 2000000,
+  "importPrice": 1000000,
+  "promotionalPrice": 1500000,
+  "product": {
+    "$oid": "66ae0263ca92df3cc738e1d9"
+  },
+  "sizes": {
+    "$oid": "66701ab284a617b1fe12cc14"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-08-03T10:11:47.867Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-14T16:19:01.066Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b39d53e0b8ac07b628c9be"
+  },
+  "quantity": 29,
+  "price": 950000,
+  "importPrice": 500000,
+  "promotionalPrice": 700000,
+  "product": {
+    "$oid": "66a7134b0e17d90e1e606a16"
+  },
+  "sizes": {
+    "$oid": "66701d42b2f455dd3c88c3d0"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-08-07T16:14:11.908Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-07T16:14:11.908Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b723a6544ffc4728368fe7"
+  },
+  "quantity": 29,
+  "price": 1500000,
+  "importPrice": 850000,
+  "promotionalPrice": 990000,
+  "product": {
+    "$oid": "66a4bd157c7a6b8c0dd17554"
+  },
+  "sizes": {
+    "$oid": "66701d3eb2f455dd3c88c3cc"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-08-10T08:24:06.184Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-10T08:24:06.184Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b8c1b8ffd24aba3e2c79b0"
+  },
+  "quantity": 24,
+  "price": 3000000,
+  "importPrice": 2400000,
+  "promotionalPrice": 2490000,
+  "product": {
+    "$oid": "66a7387bd1946d51dea80a4d"
+  },
+  "sizes": {
+    "$oid": "66701d3eb2f455dd3c88c3cc"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-08-11T13:50:48.179Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-24T18:24:49.043Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc0645a1930b1f92c28bd7"
+  },
+  "quantity": 33,
+  "price": 666,
+  "importPrice": 333,
+  "promotionalPrice": 555,
+  "product": {
+    "$oid": "66cc0644a1930b1f92c28bcd"
+  },
+  "sizes": {
+    "$oid": "66701d2db2f455dd3c88c3bc"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-08-26T04:36:21.150Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-26T04:36:21.150Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc0e7ea1930b1f92c28d0f"
+  },
+  "quantity": 26,
+  "price": 3000000,
+  "importPrice": 1900000,
+  "promotionalPrice": 1990000,
+  "product": {
+    "$oid": "66a717657a968e7be3dbd9d3"
+  },
+  "sizes": {
+    "$oid": "66701d37b2f455dd3c88c3c4"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-08-26T05:11:26.432Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-26T05:11:26.432Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc12dba1930b1f92c29b3f"
+  },
+  "quantity": 36,
+  "price": 4000000,
+  "importPrice": 3400000,
+  "promotionalPrice": 3490000,
+  "product": {
+    "$oid": "66a723d3331dc5beefaa0f8f"
+  },
+  "sizes": {
+    "$oid": "66701d33b2f455dd3c88c3c0"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-08-26T05:30:03.545Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-26T05:30:03.545Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc1610a1930b1f92c29c04"
+  },
+  "quantity": 43,
+  "price": 1500000,
+  "importPrice": 1000000,
+  "promotionalPrice": 1090000,
+  "product": {
+    "$oid": "66a73018331dc5beefaa2c5c"
+  },
+  "sizes": {
+    "$oid": "66701d37b2f455dd3c88c3c4"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-08-26T05:43:44.585Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-26T05:43:44.585Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc1610a1930b1f92c29c05"
+  },
+  "quantity": 29,
+  "price": 1500000,
+  "importPrice": 1000000,
+  "promotionalPrice": 1090000,
+  "product": {
+    "$oid": "66a73018331dc5beefaa2c5c"
+  },
+  "sizes": {
+    "$oid": "66701d3ab2f455dd3c88c3c8"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-08-26T05:43:44.585Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-26T05:43:44.585Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc16efa1930b1f92c29cbd"
+  },
+  "quantity": 36,
+  "price": 1500000,
+  "importPrice": 700000,
+  "promotionalPrice": 798000,
+  "product": {
+    "$oid": "66cc16eea1930b1f92c29cb1"
+  },
+  "sizes": {
+    "$oid": "66701d37b2f455dd3c88c3c4"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-08-26T05:47:27.075Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-26T05:47:27.075Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc16efa1930b1f92c29cbe"
+  },
+  "quantity": 38,
+  "price": 1500000,
+  "importPrice": 700000,
+  "promotionalPrice": 798000,
+  "product": {
+    "$oid": "66cc16eea1930b1f92c29cb1"
+  },
+  "sizes": {
+    "$oid": "66701d33b2f455dd3c88c3c0"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-08-26T05:47:27.075Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-26T05:47:27.075Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc16efa1930b1f92c29cbf"
+  },
+  "quantity": 29,
+  "price": 1500000,
+  "importPrice": 700000,
+  "promotionalPrice": 798000,
+  "product": {
+    "$oid": "66cc16eea1930b1f92c29cb1"
+  },
+  "sizes": {
+    "$oid": "66701d3ab2f455dd3c88c3c8"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-08-26T05:47:27.076Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-26T05:47:27.076Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4d528ab79c1f4726d9b8"
+  },
+  "quantity": 36,
+  "price": 2500000,
+  "importPrice": 1900000,
+  "promotionalPrice": 1990000,
+  "product": {
+    "$oid": "66cc4d528ab79c1f4726d9ac"
+  },
+  "sizes": {
+    "$oid": "66701d37b2f455dd3c88c3c4"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-08-26T09:39:30.482Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-26T09:39:30.482Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4d528ab79c1f4726d9b9"
+  },
+  "quantity": 35,
+  "price": 2500000,
+  "importPrice": 1900000,
+  "promotionalPrice": 1990000,
+  "product": {
+    "$oid": "66cc4d528ab79c1f4726d9ac"
+  },
+  "sizes": {
+    "$oid": "66701d3ab2f455dd3c88c3c8"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-08-26T09:39:30.482Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-26T09:39:30.482Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4d528ab79c1f4726d9ba"
+  },
+  "quantity": 34,
+  "price": 2500000,
+  "importPrice": 1900000,
+  "promotionalPrice": 1990000,
+  "product": {
+    "$oid": "66cc4d528ab79c1f4726d9ac"
+  },
+  "sizes": {
+    "$oid": "66701d45b2f455dd3c88c3d4"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-08-26T09:39:30.482Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-26T09:39:30.482Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4e7e8ab79c1f4726dce1"
+  },
+  "quantity": 36,
+  "price": 2500000,
+  "importPrice": 1400000,
+  "promotionalPrice": 1490000,
+  "product": {
+    "$oid": "66cc4e7d8ab79c1f4726dcd7"
+  },
+  "sizes": {
+    "$oid": "66701d37b2f455dd3c88c3c4"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-08-26T09:44:30.106Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-26T09:44:30.106Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4e7e8ab79c1f4726dce2"
+  },
+  "quantity": 25,
+  "price": 2500000,
+  "importPrice": 1400000,
+  "promotionalPrice": 1490000,
+  "product": {
+    "$oid": "66cc4e7d8ab79c1f4726dcd7"
+  },
+  "sizes": {
+    "$oid": "66701d3ab2f455dd3c88c3c8"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-08-26T09:44:30.106Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-26T09:44:30.106Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4e7e8ab79c1f4726dce3"
+  },
+  "quantity": 37,
+  "price": 2500000,
+  "importPrice": 1400000,
+  "promotionalPrice": 1490000,
+  "product": {
+    "$oid": "66cc4e7d8ab79c1f4726dcd7"
+  },
+  "sizes": {
+    "$oid": "66701d42b2f455dd3c88c3d0"
+  },
+  "images": [],
+  "createdAt": {
+    "$date": "2024-08-26T09:44:30.106Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-26T09:44:30.106Z"
+  }
+}]

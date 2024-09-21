@@ -1,0 +1,1 @@
+# cái gì dùng chung thì chúng ta tạo ở folder Components này

@@ -1,0 +1,288 @@
+[{
+  "_id": {
+    "$oid": "667018b31a5262051e5d3079"
+  },
+  "name": "Nike",
+  "slug": "Nike",
+  "products": [
+    {
+      "$oid": "66702266b2f455dd3c88c4e0"
+    },
+    {
+      "$oid": "66705ab6ae5fc4c2cc70d8e9"
+    },
+    {
+      "$oid": "66712586e628acdce2c4be4e"
+    },
+    {
+      "$oid": "66715008e628acdce2c4c02f"
+    },
+    {
+      "$oid": "66715138e628acdce2c4c10e"
+    },
+    {
+      "$oid": "6671522be628acdce2c4c1f9"
+    },
+    {
+      "$oid": "66715342e628acdce2c4c2f8"
+    },
+    {
+      "$oid": "6678d378353c0bdbf67c1f47"
+    },
+    {
+      "$oid": "66802f562c4c9f87da2197c8"
+    },
+    {
+      "$oid": "66803810c41dc4bb01009b7e"
+    },
+    {
+      "$oid": "6680389ac41dc4bb01009bab"
+    },
+    {
+      "$oid": "6681632728717531f1f4c797"
+    },
+    {
+      "$oid": "668164aa28717531f1f4c83d"
+    },
+    {
+      "$oid": "668416adba7d079b57c5a2ab"
+    },
+    {
+      "$oid": "668f756cdf449664ae972b8d"
+    },
+    {
+      "$oid": "668f7afcc65c1a7bee563c71"
+    },
+    {
+      "$oid": "668f7bcfc65c1a7bee563cb4"
+    },
+    {
+      "$oid": "669e6e90dfb58fdaf1c92d11"
+    },
+    {
+      "$oid": "66a4b4517c7a6b8c0dd16e46"
+    },
+    {
+      "$oid": "66a4b9aa7c7a6b8c0dd1732b"
+    },
+    {
+      "$oid": "66a4bf187c7a6b8c0dd176c2"
+    },
+    {
+      "$oid": "66a723d3331dc5beefaa0f8f"
+    },
+    {
+      "$oid": "66a73018331dc5beefaa2c5c"
+    },
+    {
+      "$oid": "66a7387bd1946d51dea80a4d"
+    },
+    {
+      "$oid": "66ae0263ca92df3cc738e1d9"
+    },
+    {
+      "$oid": "66a717657a968e7be3dbd9d3"
+    },
+    {
+      "$oid": "66cc4d528ab79c1f4726d9ac"
+    },
+    {
+      "$oid": "66cc4e7d8ab79c1f4726dcd7"
+    }
+  ],
+  "productDetails": [],
+  "createdAt": {
+    "$date": "2024-06-17T11:06:27.301Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-26T09:44:29.798Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6670197c84a617b1fe12cbe8"
+  },
+  "name": "Adidas",
+  "slug": "Adidas",
+  "products": [
+    {
+      "$oid": "667057eaae5fc4c2cc70d6ba"
+    },
+    {
+      "$oid": "66711cc6e628acdce2c4bb41"
+    },
+    {
+      "$oid": "66803793c41dc4bb01009b59"
+    },
+    {
+      "$oid": "668f7ec0c65c1a7bee563e81"
+    },
+    {
+      "$oid": "66a4bbd37c7a6b8c0dd17417"
+    },
+    {
+      "$oid": "66a717657a968e7be3dbd9d3"
+    }
+  ],
+  "productDetails": [],
+  "createdAt": {
+    "$date": "2024-06-17T11:09:48.791Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-14T05:36:32.252Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66701a2384a617b1fe12cbee"
+  },
+  "name": "Asics - Puma",
+  "slug": "Asics - Puma",
+  "products": [],
+  "productDetails": [],
+  "createdAt": {
+    "$date": "2024-06-17T11:12:35.449Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-26T04:36:26.513Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66701a3684a617b1fe12cbf3"
+  },
+  "name": "MLB",
+  "slug": "MLB",
+  "products": [
+    {
+      "$oid": "667027acb2f455dd3c88c725"
+    },
+    {
+      "$oid": "66711f29e628acdce2c4bc78"
+    },
+    {
+      "$oid": "6681660c28717531f1f4ca1a"
+    },
+    {
+      "$oid": "66841634dec03f8aa8b0704e"
+    },
+    {
+      "$oid": "668420ddba7d079b57c5ab2d"
+    },
+    {
+      "$oid": "668b7ed3450cfd65883eb149"
+    },
+    {
+      "$oid": "668f7d15c65c1a7bee563e34"
+    },
+    {
+      "$oid": "66a4bac47c7a6b8c0dd173e4"
+    },
+    {
+      "$oid": "66a701377a968e7be3dbc4e7"
+    },
+    {
+      "$oid": "66a7bb00b1fed22f44688226"
+    },
+    {
+      "$oid": "66cc16eea1930b1f92c29cb1"
+    }
+  ],
+  "productDetails": [],
+  "createdAt": {
+    "$date": "2024-06-17T11:12:54.600Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-26T09:14:17.355Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66701a4784a617b1fe12cbf8"
+  },
+  "name": "CROON",
+  "slug": "CROON",
+  "products": [
+    {
+      "$oid": "6683bbd94a386469a5ac2ee0"
+    }
+  ],
+  "productDetails": [],
+  "createdAt": {
+    "$date": "2024-06-17T11:13:11.748Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-02T08:39:29.368Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66701a5b84a617b1fe12cbfe"
+  },
+  "name": "New Balance - Fila",
+  "slug": "New Balance - Fila",
+  "products": [],
+  "productDetails": [],
+  "createdAt": {
+    "$date": "2024-06-17T11:13:31.391Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-17T11:13:31.391Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66701a6e84a617b1fe12cc03"
+  },
+  "name": "Luxury",
+  "slug": "Luxury",
+  "products": [
+    {
+      "$oid": "6671236ce628acdce2c4bdc1"
+    }
+  ],
+  "productDetails": [],
+  "createdAt": {
+    "$date": "2024-06-17T11:13:50.126Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T02:40:14.082Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66701a8684a617b1fe12cc09"
+  },
+  "name": "Converse - Vans",
+  "slug": "Converse - Vans",
+  "products": [
+    {
+      "$oid": "66712191e628acdce2c4bd6c"
+    },
+    {
+      "$oid": "66a4bd157c7a6b8c0dd17554"
+    }
+  ],
+  "productDetails": [],
+  "createdAt": {
+    "$date": "2024-06-17T11:14:14.007Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-10T08:24:06.254Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a702607a968e7be3dbc650"
+  },
+  "name": "Vans",
+  "slug": "Vans",
+  "products": [],
+  "productDetails": [],
+  "createdAt": {
+    "$date": "2024-07-29T02:45:52.071Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-29T02:46:48.352Z"
+  }
+}]
